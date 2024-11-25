@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development (MERN)**
 
-- 👨‍💻 Find my projects at [https://manivasagamportfolio.netlify.app/](My Portfolio)
+- 👨‍💻 Find my projects at [https://manivasagamportfolio.netlify.app/](https://manivasagamportfolio.netlify.app/)
 
 - 📫 How to reach me **s.kishore123.64@gmail.com**
 
